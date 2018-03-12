@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="db" class="mypack.DemoBean">
+		<property name="username" value="Ducat"></property>
+	</bean>
+</beans>
